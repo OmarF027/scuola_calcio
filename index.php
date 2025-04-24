@@ -16,15 +16,15 @@
   <body>
     <!-- Navbar -->
     <nav class="navbar">
-      <div class="container">
-        <!-- Logo cliccabile che apre in una nuova scheda -->
+      <div class="container"> 
+
         <a href="img/logo.jpg" target="_blank">
           <img src="img/logo.jpg" alt="Logo FC Caldana Academy 2025" />
         </a>
         <ul class="nav">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="strutture.html">Strutture</a></li>
-          <li><a href="contatti.html">Contatti</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="strutture.php">Strutture</a></li>
+          <li><a href="contatti.php">Contatti</a></li>
         </ul>
       </div>
     </nav>
@@ -79,15 +79,15 @@
 
     <!-- Footer -->
     <footer>
-      <div class="footer-content">
-        <p>© FC Caldana Academy 2025 – Tutti i diritti riservati</p>
-        <div class="footer-links">
-          <span>Caldana</span> |
-          <a href="tel:+393471234567">+39 347 123 4567</a> |
-          <a href="https://facebook.com" target="_blank">Facebook</a> |
-          <a href="https://instagram.com" target="_blank">Instagram</a>
+        <div class="footer-content">
+            <p>© FC Caldana Academy 2025 – Tutti i diritti riservati</p>
+            <div class="footer-links">
+                <span>Caldana</span> |
+                <a href="tel:+393471234567">+39 347 123 4567</a> |
+                <a href="https://facebook.com" target="_blank">Facebook</a> |
+                <a href="https://instagram.com" target="_blank">Instagram</a>
+            </div>
         </div>
-      </div>
     </footer>
   </body>
 </html>
