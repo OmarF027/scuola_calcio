@@ -1,0 +1,1 @@
+Sito vetrina per una scuola calcio, sviluppato con HTML, CSS, PHP e Bootstrap. La piattaforma offre informazioni su corsi, strutture e contatti, ed è progettata per essere facilmente navigabile e responsive.
